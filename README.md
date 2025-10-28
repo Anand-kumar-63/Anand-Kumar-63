@@ -4,15 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-kumar-63&label=Profile%20views&color=0e75b6&style=flat" alt="anand-kumar-63" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand-kumar-63" alt="anand-kumar-63" /></a> </p>
-
-- 🔭 I’m currently working on **Youtube-Clone**
-
 - 🌱 I’m currently learning **Blockchain**
-
 - 👯 I’m looking to collaborate on **Web-projects**
-
-- 💬 Ask me about **JS , Reactjs , Nodejs , Expressjs , MongoDb**
-
+- 💬 Ask me about **JS , Reactjs , Nodejs , Expressjs , MongoDb , prisma , SQL , Postgres , Clerk , drizzle , typescript , NEXT js , java , python**
 - 📫 How to reach me **anandks8013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -73,15 +67,25 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-</p>
+  <a href="https://clerk.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/clerk/clerk-icon.svg" alt="clerk" width="40" height="40"/>
+  </a>
+  <a href="https://plaid.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/plaid/plaid-icon.svg" alt="plaid" width="40" height="40"/>
+  </a>
+  <a href="https://dwolla.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dwolla/dwolla-icon.svg" alt="dwolla" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  </a>
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/drizzle/drizzle-icon.svg" alt="drizzle" width="40" height="40"/>
+  </a>
+  </p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-kumar-63&show_icons=true&locale=en&layout=compact" alt="anand-kumar-63" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-kumar-63&" alt="anand-kumar-63" /></p>
 .
-
-<!---
-Anand-kumar-63/Anand-kumar-63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
